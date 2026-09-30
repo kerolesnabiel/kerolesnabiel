@@ -1,26 +1,12 @@
 ## 💫 About Me:
 
-I’m a .NET Backend Developer focused on building reliable, scalable, and maintainable backend systems with ASP.NET Core and C#.
+I’m a .NET Backend Developer specializing in ASP.NET Core, C#, and scalable backend systems.
 
-I enjoy working on challenging backend problems, especially around system design, distributed systems, APIs, authentication, data, and asynchronous processing. My experience includes building projects with:
+I enjoy working with APIs, microservices, distributed systems, authentication, databases, and asynchronous processing. My experience includes EF Core, PostgreSQL, SQL Server, Redis, RabbitMQ, SignalR, Docker, CI/CD, and Azure.
 
-- ASP.NET Core, C# and EF Core
-- REST APIs, gRPC and SignalR
-- Microservices and event-driven architecture
-- Clean Architecture, Vertical Slice Architecture and CQRS
-- PostgreSQL, SQL Server and Redis
-- RabbitMQ and MassTransit
-- Keycloak, OAuth 2.0, OIDC, PKCE and JWT
-- Docker, GitHub Actions and CI/CD
-- Azure Blob Storage
+I’ve built systems such as distributed e-commerce platforms, real-time chat applications, URL shorteners, and REST APIs using Clean Architecture and CQRS.
 
-Some of the systems I’ve built include a distributed e-commerce platform with six microservices, a URL shortener with Redis caching and background processing, a real-time chat application using SignalR, and a social media REST API with Clean Architecture and CQRS.
-
-I care about understanding the reasoning behind engineering decisions—not just making something work. I’m continuously improving my knowledge of backend architecture, system design, testing, DevOps, and modern development practices.
-
-I’m currently looking for an opportunity as a .NET Backend Developer where I can contribute to a strong engineering team, work on real-world systems, and continue growing as a software engineer.
-
-📫 Feel free to connect or reach out if you’d like to talk about backend development, .NET, system design, or software engineering.
+I’m always learning and looking for opportunities to build real-world systems, solve challenging problems, and grow as a software engineer.
 
 ## 💻 Tech Stack:
 
